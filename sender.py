@@ -15,12 +15,12 @@ from datetime import datetime, timezone
 GMAIL_ADDRESS = "pratyuktpc@gmail.com"
 GMAIL_APP_PASSWORD = "bakhrgibuwfhlqbi"  # generate at myaccount.google.com/apppasswords
 
-SUBJECT = "DevOps Engineer Application – Pratyukt (2.6 Years Experience)"
+SUBJECT = "DevOps Engineer Application – Pratyukt (2.7 Years Experience)"
 BODY_TEMPLATE = """Dear {name},
 
 I hope this message finds you well. I am writing to express my interest in the DevOps Engineer position at your organization.
 
-I bring 2.6 years of hands-on experience in Kubernetes, CI/CD automation, AWS, and database high availability, with a strong focus on building reliable, scalable infrastructure. I have attached my resume for your consideration and would welcome the opportunity to discuss how my experience aligns with your team's requirements.
+I bring 2.7 years of hands-on experience in Kubernetes, CI/CD automation, AWS, and database high availability, with a strong focus on building reliable, scalable infrastructure. I have attached my resume for your consideration and would welcome the opportunity to discuss how my experience aligns with your team's requirements.
 
 Thank you for your time and consideration. I look forward to hearing from you.
 
